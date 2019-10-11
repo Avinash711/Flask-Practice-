@@ -1,1 +1,3 @@
 Git is awesome
+
+This is the feature/bug fixes repo.
