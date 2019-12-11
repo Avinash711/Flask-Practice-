@@ -1,1 +1,3 @@
-Git is awesome indeed
+Git is awesome indeed.
+
+I am good at python programming.
